@@ -1,6 +1,6 @@
 # Boost - Responsive Landing Page
 
-This is a responsive landing page project built for a fictional SEO agency named "Boost". It was developed using HTML, CSS, JavaScript, and SCSS, and follows a design provided by [Templates Jungle](https://templatesjungle.gumroad.com/l/boost-seo-agency-figma-website-template).
+This is a responsive landing page project built for a fictional SEO agency named "Boost". It was developed using HTML, CSS, SCSS and JavaScript, and follows a design provided by [Templates Jungle](https://templatesjungle.gumroad.com/l/boost-seo-agency-figma-website-template).
 
 ## Features
 
