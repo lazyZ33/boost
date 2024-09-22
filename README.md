@@ -9,11 +9,13 @@ This is a responsive landing page project built for a fictional SEO agency named
 *   **Dynamic Elements:** JavaScript is implemented to enhance interactivity, potentially including features like smooth scrolling, animations, or form submissions.
 
 ## Development Stack
-
+Frontend:
 *   HTML
 *   CSS
 *   SCSS
 *   JavaScript
+Backend:
+*   To Be Decided
 
 ## Getting Started
 
@@ -27,7 +29,7 @@ This is a responsive landing page project built for a fictional SEO agency named
 
 ## Contact
 
-[E-mail](zeeshanmujtaba17@gmail.com)
+[E-mail](mailto:zeeshanmujtaba17@gmail.com)
 [Linkedin](https://www.linkedin.com/in/zeeshan-webdev/)
 
 Feel free to contribute to the project or suggest new features! 
