@@ -15,10 +15,6 @@ This is a responsive landing page project built for a fictional SEO agency named
 *   SCSS
 *   JavaScript
 
-## Project Structure
-
-boost/ ├── index.html ├── css/ │ ├── style.css │ └── responsive.css ├── js/ │ └── script.js └── img/ └── ...
-
 ## Getting Started
 
 1.  Clone the repository:  `git clone <repository-url>`
