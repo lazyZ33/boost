@@ -17,15 +17,7 @@ This is a responsive landing page project built for a fictional SEO agency named
 
 ## Project Structure
 
-boost/
-├── index.html
-├── css/
-│   ├── style.css
-│   └── responsive.css
-├── js/
-│   └── script.js
-└── img/
-    └── ...
+boost/ ├── index.html ├── css/ │ ├── style.css │ └── responsive.css ├── js/ │ └── script.js └── img/ └── ...
 
 ## Getting Started
 
